@@ -106,7 +106,7 @@ Here are some ideas to get you started:
 
 <h1 align=center>Happy Coding 👨‍💻</h1>
 
-<h3 align="left">Support: -</h3>
+<h3 align="left">Support me</h3>
 <p>
   <a href="https://www.buymeacoffee.com/nitinroy">
     <img align="left" src="img/buymeacoffee.png" height="50" width="210"
@@ -114,7 +114,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<br><br><br><br>
+<br><br><br><br><br><br>
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=roynitin710&show_icons=true&locale=en&layout=compact" alt="roynitin710">
