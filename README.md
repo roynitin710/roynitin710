@@ -56,10 +56,10 @@ Here are some ideas to get you started:
     <img src="img/python_icon.png" alt="Python" width="40" height="40">
   </a>
   <a href="https://html.com/" target="_blank">
-    <img src="img/HTML5_icon.gif" alt="HTML" width="40" height="40">
+    <img src="img/HTML5_icon.gif" alt="HTML" width="40" height="47">
   </a>
   <a href="https://getbootstrap.com/" target="_blank">
-    <img src="img/bootstrap_icon.png" alt="Bootstrap" width="40" height="40">
+    <img src="img/bootstrap_icon.png" alt="Bootstrap" width="40" height="35">
   </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img src="img/MySQL_icon.png" alt="MySQL" width="40" height="40">
@@ -71,7 +71,7 @@ Here are some ideas to get you started:
     <img src="img/pycharm_icon.ico" alt="Pycharm" width="40" height="40">
   </a>
   <a href="https://www.phpmyadmin.net/" target="_blank">
-    <img src="img/phpMyAdmin_icon.png" alt="phpMyAdmin" width="40" height="40">
+    <img src="img/phpMyAdmin_icon.png" alt="phpMyAdmin" width="45" height="40">
   </a>
   <a href="https://www.photoshop.com/en/" target="_blank">
     <img src="img/photoshop_icon.png" alt="Photoshop" width="40" height="40">
