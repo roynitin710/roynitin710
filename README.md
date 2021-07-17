@@ -58,6 +58,9 @@ Here are some ideas to get you started:
   <a href="https://html.com/" target="_blank">
     <img src="img/HTML5_icon.gif" alt="HTML" width="40" height="40">
   </a>
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="img/bootstrap_icon.png" alt="Bootstrap" width="40" height="40">
+  </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img src="img/MySQL_icon.png" alt="MySQL" width="40" height="40">
   </a>
