@@ -64,6 +64,9 @@ Here are some ideas to get you started:
   <a href="https://www.jetbrains.com/pycharm/" target="_blank">
     <img src="img/pycharm_icon.ico" alt="Pycharm" width="40" height="40">
   </a>
+  <a href="https://www.phpmyadmin.net/" target="_blank">
+    <img src="img/phpMyAdmin.png" alt="phpMyAdmin" width="40" height="40">
+  </a>
   <a href="https://www.photoshop.com/en/" target="_blank">
     <img src="img/photoshop_icon.png" alt="Photoshop" width="40" height="40">
   </a>
