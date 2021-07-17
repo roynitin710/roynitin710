@@ -47,22 +47,25 @@ Here are some ideas to get you started:
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
   <a href="https://www.programiz.com/c-programming" target="_blank">
-    <img src="img/c_icon.png" alt="c" width="40" height="40">
+    <img src="img/c_icon.png" alt="C" width="40" height="40">
   </a>
   <a href="https://www.programiz.com/cpp-programming" target="_blank">
-    <img src="img/cpp_icon.png" alt="c" width="40" height="40">
+    <img src="img/cpp_icon.png" alt="C++" width="40" height="40">
   </a>
   <a href="https://www.python.org" target="_blank">
     <img src="img/python_icon.png" alt="Python" width="40" height="40">
   </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="img/MySQL_icon.png" alt="MySQL" width="40" height="40">
+  </a>
   <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="img/vscode_icon.png" alt="git" width="40" height="40">
+    <img src="img/vscode_icon.png" alt="VS Code" width="40" height="40">
   </a>
   <a href="https://www.jetbrains.com/pycharm/" target="_blank">
-    <img src="img/pycharm_icon.ico" alt="git" width="40" height="40">
+    <img src="img/pycharm_icon.ico" alt="Pycharm" width="40" height="40">
   </a>
   <a href="https://www.photoshop.com/en/" target="_blank">
-    <img src="img/photoshop_icon.png" alt="photoshop" width="40" height="40">
+    <img src="img/photoshop_icon.png" alt="Photoshop" width="40" height="40">
   </a>
 </p>
 
