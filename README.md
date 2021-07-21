@@ -13,7 +13,7 @@
 
 <br>
 
-- 🔭 I’m currently working on **ML**.
+- 🔭 I’m currently working on **Flask, Django**.
 
 - 🌱 I'm currently learning **DSA, Machine Learning**.
 
