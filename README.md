@@ -121,8 +121,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=roynitin710&show_icons=true&locale=en&layout=compact" alt="roynitin710">
 </p>
 
-<p>&nbsp;<img align="center"
-    src="https://github-readme-stats.vercel.app/api?username=roynitin710&show_icons=true&locale=en" alt="roynitin710" />
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=roynitin710&show_icons=true&locale=en" alt="roynitin710" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roynitin710&" alt="roynitin710" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roynitin710&" alt="roynitin710">
+</p>
