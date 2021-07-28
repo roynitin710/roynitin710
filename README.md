@@ -45,6 +45,9 @@
   <a href="https://www.python.org" target="_blank">
     <img src="img/python_icon.png" alt="Python" width="40" height="40">
   </a>
+  <a href="https://julialang.org/" target="_blank">
+    <img src="img/julia_icon.png" alt="Julia" width="40" height="40">
+  </a>
   <a href="https://html.com/" target="_blank">
     <img src="img/HTML5_icon.gif" alt="HTML" width="40" height="47">
   </a>
