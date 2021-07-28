@@ -3,6 +3,10 @@
   Hi <img src="img/Hi.gif" width="30px">, I'm Nitin Roy
 </h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=52F7F5&size=24&lines=Welcome+to+the+World+of+Nitin+Roy">
+</p>
+
 <h3 align="center">
   <p>
     Computer Science Engineering student with problem-solving skills and ability to perform well in groups
