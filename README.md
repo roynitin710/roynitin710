@@ -76,6 +76,10 @@
 
 <br>
 
+[![Nitin's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=roynitin710&theme=xcode)](https://git.io/roynitin710)
+
+<br>
+
 <p>
 <h3>Support me</h3>
 <a href="https://www.buymeacoffee.com/nitinroy">
