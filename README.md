@@ -128,7 +128,7 @@
 
 <br><br><br><br><br><br>
 
-<h3 align="left"Overall profile stats</h3>
+<h3 align="left">Overall profile stats</h3>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=roynitin710&show_icons=true&locale=en&layout=compact" alt="roynitin710">
 </p>
