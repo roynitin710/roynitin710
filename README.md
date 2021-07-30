@@ -126,7 +126,7 @@
   </a>
 </p>
 
-<br><br><br><br>
+<br><br><br>
 
 <h3 align="left">Overall profile stats</h3>
 <p>
