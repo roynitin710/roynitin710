@@ -80,15 +80,6 @@
 
 <br>
 
-<p>
-<h3>Support me</h3>
-<a href="https://www.buymeacoffee.com/nitinroy">
-  <img src="img/buymeacoffee.png" height="50" width="210" alt="">
-</a>
-</p>
-
-<br>
-
 <h3>Github Profile Trophy</h3>
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -118,15 +109,7 @@
 
 <h1 align=center>Happy Coding 👨‍💻</h1>
 
-<h3 align="left">Support me</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/nitinroy">
-    <img align="left" src="img/buymeacoffee.png" height="50" width="210"
-      alt="(+91)7980913713">
-  </a>
-</p>
-
-<br><br><br>
+<br>
 
 <h3 align="left">Overall profile stats</h3>
 <p>
@@ -139,4 +122,13 @@
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roynitin710&theme=radical" alt="roynitin710">
+</p>
+
+<br>
+
+<h1 align="center">Support Me<h1>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/nitinroy" target="_blank">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;">
+  </a>
 </p>
