@@ -92,7 +92,7 @@
 <h3>Github Profile Trophy</h3>
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=roynitin710" alt="roynitin710">
+    <img src="https://github-profile-trophy.vercel.app/?username=roynitin710&theme=onedark" alt="roynitin710">
   </a>
 </p>
 
@@ -128,6 +128,7 @@
 
 <br><br><br><br><br><br>
 
+<h3 align="left"Overall profile stats</h3>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=roynitin710&show_icons=true&locale=en&layout=compact" alt="roynitin710">
 </p>
