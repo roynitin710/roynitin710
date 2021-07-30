@@ -92,7 +92,7 @@
 <h3>Github Profile Trophy</h3>
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=roynitin710&theme=onedark" alt="roynitin710">
+    <img src="https://github-profile-trophy.vercel.app/?username=roynitin710&theme=juicyfresh" alt="roynitin710">
   </a>
 </p>
 
