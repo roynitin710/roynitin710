@@ -78,12 +78,11 @@
 
 <br>
 
-<h3>Github Profile Trophy</h3>
-<p align="left">
+<h3>🏆 Github Profile Trophy</h3>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=roynitin710&theme=dark" alt="roynitin710">
+    <img src="https://github-profile-trophy.vercel.app/?username=roynitin710&column=8&hide=PullRequest&theme=onestar"/>
   </a>
-</p>
+</div>
 
 <br>
 
