@@ -111,15 +111,15 @@
 
 <h3 align="left">Overall profile stats</h3>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=roynitin710&show_icons=true&locale=en&layout=compact&theme=radical" alt="roynitin710">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=roynitin710&show_icons=true&locale=en&layout=compact&theme=dark" alt="roynitin710">
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=roynitin710&show_icons=true&locale=en&theme=radical" alt="roynitin710">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=roynitin710&show_icons=true&locale=en&theme=dark" alt="roynitin710">
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roynitin710&theme=radical" alt="roynitin710">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roynitin710&theme=dark" alt="roynitin710">
 </p>
 
 <br>
@@ -130,4 +130,5 @@
     <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;">
   </a>
 </p>
+
 <!---<img src="https://gpvc.arturio.dev/roynitin710" alt="profile views"/>  <img alt="GitHub followers" src="https://img.shields.io/github/followers/roynitin710?style=social"/>--->
