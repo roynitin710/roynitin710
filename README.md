@@ -26,9 +26,9 @@
 - 📝 Connect to me at
 [https://www.linkedin.com/in/nitin-roy-8704a91ba/](https://www.linkedin.com/in/nitin-roy-8704a91ba/).
 
-- 📫 Reach me at **https://www.instagram.com/roynitin710/**
+- 📫 Reach me at [https://www.instagram.com/roynitin710/](https://www.instagram.com/roynitin710/).
 
-- 💬 Ask me **Programming** related doubts
+- 💬 Ask me **Programming** related doubts.
 
 <br><br>
 
@@ -123,7 +123,6 @@
 
 <br>
 
-<h1 align="center">Support Me<h1>
 <p align="center">
   <a href="https://www.buymeacoffee.com/nitinroy" target="_blank">
     <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;">
