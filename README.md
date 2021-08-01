@@ -62,7 +62,7 @@
     <img src="img/vscode_icon.png" alt="VS Code" width="40" height="40">
   </a>
   <a href="https://www.jetbrains.com/pycharm/" target="_blank">
-    <img src="img/pycharm_icon.ico" alt="Pycharm" width="40" height="40">
+    <img src="img/pycharm_icon.png" alt="Pycharm" width="40" height="40">
   </a>
   <a href="https://colab.research.google.com/notebooks/intro.ipynb" target="_blank">
     <img src="img/googlecolab_icon.png" alt="Google Colab" width="40" height="40">
