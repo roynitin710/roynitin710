@@ -74,7 +74,6 @@
 
 <br>
 
-<h3>Contribution Graph</h3>
 [![Nitin's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=roynitin710&theme=xcode)](https://git.io/roynitin710)
 
 <br>
