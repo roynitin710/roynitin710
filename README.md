@@ -1,8 +1,8 @@
-<h1 align="center">
+<!-- <h1 align="center">
   <img src="img/Contra-Internet-Top.gif" width="200"> <br>
   Hi <img src="img/Hi.gif" width="30px">, I'm Nitin Roy
 </h1>
-
+ -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=2147F7FF&size=24&width=515&height=62&lines=Welcome+to+my+World+of+Programming!">
 </p>
