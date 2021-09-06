@@ -64,6 +64,9 @@
   <a href="https://www.jetbrains.com/pycharm/" target="_blank">
     <img src="img/pycharm_icon.png" alt="Pycharm" width="40" height="40">
   </a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank">
+    <img src="" alt="IntelliJ IDEA" width="40" height="40">
+  </a>
   <a href="https://www.anaconda.com/" target="_blank">
     <img src="img/anaconda_icon.png" alt="Anaconda" width="40" height="40">
   </a>
