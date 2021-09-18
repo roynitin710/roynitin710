@@ -76,7 +76,8 @@
 
 <br>
 
-<h3 align="left">Languages and Tools</h3>
+<h3 align="left">Contribution Graph</h3>
+
 [![Nitin's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=roynitin710&theme=xcode)](https://git.io/roynitin710)
 
 <br>
