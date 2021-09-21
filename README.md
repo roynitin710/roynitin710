@@ -75,7 +75,6 @@
   </a>
 </p>
 
-<br>
 
 <h3 align="left">Contribution Graph</h3>
 
