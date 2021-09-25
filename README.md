@@ -15,9 +15,9 @@
 
 <br>
 
-- 🔭 I’m currently working on **Flask, Django**.
+- 🔭 I’m currently working on **Python Application Softweare**.
 
-- 🌱 I'm currently learning **DSA, Machine Learning**.
+- 🌱 I'm currently learning **DSA**.
 
 - 👯 I’m looking for collaborate on projects.
 
