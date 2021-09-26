@@ -15,7 +15,7 @@
 
 <br>
 
-- 🔭 I’m currently working on **Python Application Softweare**.
+- 🔭 I’m currently working on an **Application Softweare**.
 
 - 🌱 I'm currently learning **DSA**.
 
